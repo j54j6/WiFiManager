@@ -1,0 +1,10 @@
+{
+    "apIP" : "10.0.0.1",
+    "apSubnet" : "255.0.0.0",
+    "apGateway" : "10.0.0.1",
+
+    //optional - only for function passed configs - default path does not contain these information
+    "apName" : "test",
+    "apPass" : "emptyIfNoPass",
+
+}

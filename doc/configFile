@@ -1,0 +1,16 @@
+{
+    "configured" : true,
+    "connectionTimeout" : "60",
+    "apSSID" : "test",
+    "apPSK" : "test",
+    "apIP" : "10.0.0.1" //only exist if set
+    "apGWIP" : "10.0.0.2" // only exist if set
+    "apSubnet" : "255.255.255.0" //only exist if set
+    "SSID" : "NO_SSID_FOUND", 
+    "PSK" : "PrivWiFiKeyJustin910",
+    "StaChannel" : "1", //only availiable if set
+    "StaBSSID" : "8C:34:54:23:54", // only avail if set
+    "apEnabled" : "false",
+    "staEnabled" : "true",
+    "hostname" : "NodeworkDevdevice01"
+}
